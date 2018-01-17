@@ -19,6 +19,16 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="FileDirectory\FileDirectory.h" />
+    <ClInclude Include="FileDirectory\MYErrno.h" />
+    <ClInclude Include="FileDirectory\MYHeader.h" />
+    <ClInclude Include="FileDirectory\MyPrint.h" />
+    <ClInclude Include="FileDirectory\mySAL.h" />
+    <ClInclude Include="MotoreFILDER\elencoFilder.h" />
+    <ClInclude Include="MotoreFILDER\MYErrno.h" />
+    <ClInclude Include="MotoreFILDER\MyFilder.h" />
+    <ClInclude Include="MotoreFILDER\myFile.h" />
+    <ClInclude Include="MotoreFILDER\MYHeader.h" />
     <ClInclude Include="MyFilder.h" />
   </ItemGroup>
   <ItemGroup>

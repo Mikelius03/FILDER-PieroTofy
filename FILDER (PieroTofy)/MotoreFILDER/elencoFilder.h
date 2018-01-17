@@ -1,23 +1,27 @@
-/*******************************************************************************
-    Cannavo' Michele (Mikelius)
-    v.1.0.0.0 del 13/04/2017
-    Rilasciata con Licenza GNU GPLv3.0
-    COPYRIGHT (C) 2017 Cannavo' Michele
+/**********************************************************************************//*
+ * \license GNU LGPL 3.0
+ * \author Michele Cannavo'
+ * \date 2018-01-18
 
-    This program is free software: you can redistribute it and/or modify
+Copyright (c) 2017- 2018, Michele Cannavo'
+All rights reserved.
+
+This file is part of Nome-Programma.
+
+    Nome-Programma is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
-    any later version.
+    (at your option) any later version.
 
-    This program is distributed in the hope that it will be useful,
+    Nome-Programma is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    along with Nome-Programma.  If not, see <http://www.gnu.org/licenses/>.
+ ************************************************************************************/
 
-*******************************************************************************/
 
 #ifndef ELENCOFILDER_H
 #define ELENCOFILDER_H

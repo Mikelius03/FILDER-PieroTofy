@@ -18,6 +18,36 @@
     <ClInclude Include="MyFilder.h">
       <Filter>File di intestazione</Filter>
     </ClInclude>
+    <ClInclude Include="MotoreFILDER\elencoFilder.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="MotoreFILDER\MYErrno.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="MotoreFILDER\MyFilder.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="MotoreFILDER\myFile.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="MotoreFILDER\MYHeader.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="FileDirectory\FileDirectory.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="FileDirectory\MYErrno.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="FileDirectory\MYHeader.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="FileDirectory\MyPrint.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="FileDirectory\mySAL.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="argumentSet.c">
