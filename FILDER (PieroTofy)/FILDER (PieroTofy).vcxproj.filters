@@ -14,4 +14,32 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyFilder.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="argumentSet.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="FileDirectory\my_chdir.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="FileDirectory\my_getcwd.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="MotoreFILDER\function2.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="MotoreFILDER\MotoreFILDER.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="MotoreFILDER\searchF.c">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
